@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+    url(/fonts/Raleway-Regular.woff) format('woff'), 
+    url(/fonts/Raleway-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: Raleway;
+  font-weight: 800;
+  font-display: swap;
+  src: 
+    url(/fonts/Raleway-ExtraBold.woff) format('woff'), 
+    url(/fonts/Raleway-ExtraBold.woff2) format('woff2');
+}
